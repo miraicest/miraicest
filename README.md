@@ -4,11 +4,11 @@
 
 <div align="center">
   
-${{\color{#57240A}{\textsf{ eric / kyle }}}}$ ![ALT](https://cdn.phototourl.com/member/2026-10-22-8aa3c39b-640f-4318-b44e-cc9e980113b5.gif)
+${{\color{#6B4125}{\textsf{ eric / kyle }}}}$ ![ALT](https://cdn.phototourl.com/member/2026-10-22-8aa3c39b-640f-4318-b44e-cc9e980113b5.gif)
 
 <div align="center">
   
-${{\color{#57240A}{\textsf{my wife}}}}$ ![ALT](https://cdn.phototourl.com/member/2026-10-22-bc65c725-7145-4c46-831a-3655d8b0846c.gif) <a href="https://github.com/nassecest">rei </a>
+${{\color{#6B4125}{\textsf{my wife}}}}$ ![ALT](https://cdn.phototourl.com/member/2026-10-22-bc65c725-7145-4c46-831a-3655d8b0846c.gif) <a href="https://github.com/nassecest">rei </a>
 
 <br>
 
@@ -17,4 +17,4 @@ ${{\color{#57240A}{\textsf{my wife}}}}$ ![ALT](https://cdn.phototourl.com/member
 
 <div align="center">
   
-![ALT](https://cdn.phototourl.com/member/2026-10-22-8aa3c39b-640f-4318-b44e-cc9e980113b5.gif) ${{\color{#57240A}{\textsf{ working on socials }}}}$
+![ALT](https://cdn.phototourl.com/member/2026-10-22-8aa3c39b-640f-4318-b44e-cc9e980113b5.gif) ${{\color{#6B4125}{\textsf{ working on socials }}}}$
