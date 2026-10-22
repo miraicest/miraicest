@@ -17,4 +17,4 @@ ${{\color{#6B4125}{\textsf{my wife}}}}$ ![ALT](https://cdn.phototourl.com/member
 
 <div align="center">
   
-<a href="https://en.pronouns.page/@erickit">prnspg </a>　　![ALT](https://cdn.phototourl.com/member/2026-10-22-8aa3c39b-640f-4318-b44e-cc9e980113b5.gif) ${{\color{#6B4125}{\textsf{ working on ata }}}}$
+<a href="https://en.pronouns.page/@erickit">prnspg </a>　　　![ALT](https://cdn.phototourl.com/member/2026-10-22-8aa3c39b-640f-4318-b44e-cc9e980113b5.gif)　　　 ${{\color{#6B4125}{\textsf{ working on ata }}}}$
