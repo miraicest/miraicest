@@ -8,7 +8,7 @@ ${{\color{#6B4125}{\textsf{ eric / kyle }}}}$ ![ALT](https://cdn.phototourl.com/
 
 <div align="center">
   
-${{\color{#6B4125}{\textsf{my wife}}}}$ ![ALT](https://cdn.phototourl.com/member/2026-10-22-bc65c725-7145-4c46-831a-3655d8b0846c.gif) <a href="https://github.com/nassecest">rei </a>
+${{\color{#6B4125}{\textsf{my wife}}}}$ ![ALT](https://cdn.phototourl.com/member/2026-10-22-bc65c725-7145-4c46-831a-3655d8b0846c.gif) <a href="https://github.com/buncest">rei </a>
 
 <br>
 
