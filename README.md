@@ -19,8 +19,6 @@ ${{\color{#473E4E}{\textsf{ 𝐞𝐫𝐢𝐜 / 𝐤𝐲𝐥𝐞 }}}}$ ![ALT](htt
   
 ${{\color{#272130}{\textsf{m𝐲 𝐰𝐢𝐟𝐞}}}}$ ![ALT](https://files.catbox.moe/v4ooz3.gif) <a href="https://github.com/buncest">𝐫𝐞𝐢 </a>
 
-<br>
-
 ![Alt](https://files.catbox.moe/4gf4lx.png)   
 <br>
 
