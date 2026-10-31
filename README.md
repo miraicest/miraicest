@@ -8,7 +8,7 @@ ${{\color{#A7A095}{\textsf{ 𝐞𝐫𝐢𝐜 / 𝐤𝐲𝐥𝐞 }}}}$ ![ALT](htt
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=jinwoo-cest&style=flat&label=　　𝐬𝐡𝐚𝐝𝐨𝐰𝐬　　&color=997376)
+![](https://komarev.com/ghpvc/?username=jinwoo-cest&style=flat&label=　　𝐬𝐡𝐚𝐝𝐨𝐰𝐬　　&color=352E3E)
 
 <div align="center">
   
