@@ -4,15 +4,15 @@
 
 <div align="center">
   
-${{\color{#A09982}{\textsf{ 𝐞𝐫𝐢𝐜 / 𝐤𝐲𝐥𝐞 }}}}$ ![ALT](https://files.catbox.moe/hulcy6.gif)
+${{\color{#9F9781}{\textsf{ 𝐞𝐫𝐢𝐜 / 𝐤𝐲𝐥𝐞 }}}}$ ![ALT](https://files.catbox.moe/hulcy6.gif)
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=jinwoo-cest&style=flat&label=　　𝐬𝐡𝐚𝐝𝐨𝐰𝐬　　&color=120C28)
+![](https://komarev.com/ghpvc/?username=jinwoo-cest&style=flat&label=　　𝐬𝐡𝐚𝐝𝐨𝐰𝐬　　&color=9A7677)
 
 <div align="center">
   
-${{\color{#341B3C}{\textsf{m𝐲 𝐰𝐢𝐟𝐞}}}}$ ![ALT](https://files.catbox.moe/1pqk7t.gif) <a href="https://github.com/buncest">𝐫𝐞𝐢 </a>
+${{\color{#845A63}{\textsf{m𝐲 𝐰𝐢𝐟𝐞}}}}$ ![ALT](https://files.catbox.moe/1pqk7t.gif) <a href="https://github.com/buncest">𝐫𝐞𝐢 </a>
 
 <br>
 
@@ -21,4 +21,4 @@ ${{\color{#341B3C}{\textsf{m𝐲 𝐰𝐢𝐟𝐞}}}}$ ![ALT](https://files.catb
 
 <div align="center">
   
-  <a href="https://en.pronouns.page/@erickit">𝐩𝐫𝐧𝐩𝐚𝐠𝐞</a>　　![ALT](https://files.catbox.moe/lyfhi4.gif)　　 ${{\color{#120C28}{\textsf{ 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐚𝐭𝐚 }}}}$
+  <a href="https://en.pronouns.page/@erickit">𝐩𝐫𝐧𝐩𝐚𝐠𝐞</a>　　![ALT](https://files.catbox.moe/lyfhi4.gif)　　 ${{\color{#47213F}{\textsf{ 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐚𝐭𝐚 }}}}$
