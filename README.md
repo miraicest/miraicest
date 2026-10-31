@@ -25,6 +25,9 @@ ${{\color{#272130}{\textsf{m𝐲 𝐰𝐢𝐟𝐞}}}}$ ![ALT](https://files.catb
 
 ![Alt](https://files.catbox.moe/4gf4lx.png)   
 <br>
+<div align="center">
+
+${{\color{#241E2F}{\textsf{ 　·།† ︶ ⏝ ︶  ︶ ⏝ ︶  ︶ ⏝ ︶  ︶ ⏝ ︶  ︶ †། · }}}}$
 
 <div align="center">
   
