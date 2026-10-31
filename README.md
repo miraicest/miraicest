@@ -4,7 +4,7 @@
 
 <div align="center">
   
-${{\color{#9F9781}{\textsf{ 𝐞𝐫𝐢𝐜 / 𝐤𝐲𝐥𝐞 }}}}$ ![ALT](https://files.catbox.moe/hulcy6.gif)
+${{\color{#9F9781}{\textsf{ 𝐞𝐫𝐢𝐜 / 𝐤𝐲𝐥𝐞 }}}}$ ![ALT](https://files.catbox.moe/bsnzju.gif)
 
 <div align="center">
 
@@ -12,7 +12,7 @@ ${{\color{#9F9781}{\textsf{ 𝐞𝐫𝐢𝐜 / 𝐤𝐲𝐥𝐞 }}}}$ ![ALT](htt
 
 <div align="center">
   
-${{\color{#845A63}{\textsf{m𝐲 𝐰𝐢𝐟𝐞}}}}$ ![ALT](https://files.catbox.moe/1pqk7t.gif) <a href="https://github.com/buncest">𝐫𝐞𝐢 </a>
+${{\color{#845A63}{\textsf{m𝐲 𝐰𝐢𝐟𝐞}}}}$ ![ALT](https://files.catbox.moe/dserjz.png) <a href="https://github.com/buncest">𝐫𝐞𝐢 </a>
 
 <br>
 
@@ -21,4 +21,4 @@ ${{\color{#845A63}{\textsf{m𝐲 𝐰𝐢𝐟𝐞}}}}$ ![ALT](https://files.catb
 
 <div align="center">
   
-  <a href="https://en.pronouns.page/@erickit">𝐩𝐫𝐧𝐩𝐚𝐠𝐞</a>　　![ALT](https://files.catbox.moe/lyfhi4.gif)　　 ${{\color{#47213F}{\textsf{ 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐚𝐭𝐚 }}}}$
+  <a href="https://en.pronouns.page/@erickit">𝐩𝐫𝐧𝐩𝐚𝐠𝐞</a>　　![ALT](https://files.catbox.moe/knwbp6.png))　　 ${{\color{#47213F}{\textsf{ 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐚𝐭𝐚 }}}}$
