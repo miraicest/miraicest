@@ -8,6 +8,10 @@
 <br>
 
 <div align="center">
+
+${{\color{#473E4E}{\textsf{ 　·།† ︶ ⏝ ︶  ︶ ⏝ ︶  ︶ ⏝ ︶  ︶ ⏝ ︶  ︶ †། · }}}}$
+
+<div align="center">
   
 ${{\color{#473E4E}{\textsf{ 𝐞𝐫𝐢𝐜 / 𝐤𝐲𝐥𝐞 }}}}$ ![ALT](https://files.catbox.moe/qvsier.gif)
 
